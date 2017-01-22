@@ -1,0 +1,16 @@
+header{
+	background: #313131;
+	color: white;
+}
+
+article{
+	background: orange;
+}
+
+aside{
+	background: #cccccc;
+}
+
+.color1{
+	background: teal;
+}
